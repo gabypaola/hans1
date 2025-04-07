@@ -1,4 +1,5 @@
 class Conexion {
+    //*
     Ciudad destino;
     int costo;
 

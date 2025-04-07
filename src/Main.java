@@ -23,6 +23,6 @@ public class Main {
 
         // realizamos la búsqueda de anchura desde "New York" hacia "Los Angeles"
         System.out.println("Búsqueda en anchura:");
-        Busqueda.bfs(grafo.getCiudad("New York"), "Los Angeles");
+        Busqueda.bfs(grafo.getCiudad("Denver"), "Los Angeles");
     }
 }
